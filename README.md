@@ -23,7 +23,7 @@
 </head>
 <body>
   <header>
-    <h1>Raghu N Portfolio</h1>
+    <h1>sridevi k Portfolio</h1>
     <p>ECE Student | Web Developer | Tech Enthusiast</p>
     <ul class="nav-links">
       <li><a href="#projects">Projects</a></li>
